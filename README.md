@@ -32,7 +32,7 @@ flutter run
 
 # App Deployment
 
-The mobile app is deployed on Appetize.io for easy testing: Appetize.io Demo
+The mobile app is deployed on Appetize.io for easy testing: [Appetize.io Demo](https://appetize.io/app/android/com.example.mobile_app?device=pixel7&osVersion=13.0)
 
 # License
 
